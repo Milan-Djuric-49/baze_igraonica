@@ -1,0 +1,12 @@
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\bin\Debug\igraonica.exe.config
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\bin\Debug\igraonica.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\bin\Debug\igraonica.pdb
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.csprojAssemblyReference.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.Login.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.Properties.Resources.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.csproj.GenerateResource.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.csproj.CoreCompileInputs.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.pdb
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.Korisnik.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\baze_igraonica\igraonica\obj\Debug\igraonica.Admin.resources
